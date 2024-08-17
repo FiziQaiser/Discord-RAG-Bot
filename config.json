@@ -1,0 +1,9 @@
+{
+    "bot_name": "CSR",
+    "bot_image": "https://cdn.discordapp.com/attachments/1187679514684293181/1272568651563925524/images.png?ex=66bb7369&is=66ba21e9&hm=01cfab7d3ea7ffdde59b6b6b858a59bc277416d5b4aaddf53c61bb5cc21ebafe&",
+    "prefix": ">>",
+    "support_server_url": "https://discord.gg/kTavknSvrZ",
+    "presence_activity": "to your queries.",
+    "bot_primary_color": "3c76fa",
+    "embed_footer": "Made with love by @fizzy.py"
+}
